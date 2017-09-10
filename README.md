@@ -1,1 +1,5 @@
-# LeafDigi
+#LeafDigi
+
+==============
+
+Leaf, Digitalizing the Net
